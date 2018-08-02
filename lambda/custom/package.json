@@ -1,12 +1,12 @@
 {
-  "name": "trivia",
+  "name": "bible trivia",
   "version": "1.0.0",
-  "description": "",
+  "description": "Bible trivia game",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Aldretech",
   "license": "ISC",
   "dependencies": {
     "ask-sdk-core": "^2.0.0",

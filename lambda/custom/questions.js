@@ -5,46 +5,41 @@ module.exports = {
    * Make sure the first answer is the correct one.
    * Set at least ANSWER_COUNT answers, any extras will be shuffled in.
    */
-  QUESTIONS_EN_GB: [
+  /*QUESTIONS_EN_GB: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'How many disciples did Jesus choose?': [
+        '12',
+        '11',
+        '25',
+        '13',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'Who baptized Jesus? ': [
+        'John The Baptist',
+        'Judah',
+        'Matthew',
+        'The Pope',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Who denied Jesus three times?': [
+        'Peter',
+        'Samuel',
+        'John',
+        'Judah',
       ],
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be? ': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
+      'How many commandments did Moses bring down the mountain?': [
+        '10',
+        '12',
+        '6',
+        '18',
       ],
     },
     {
-      'What do Reindeer eat?': [
+      'What did Moses part?': [
         'Lichen',
         'Grasses',
         'Leaves',
@@ -253,257 +248,251 @@ module.exports = {
         '41 miles per hour',
       ],
     },
-  ],
+  ],*/
   QUESTIONS_EN_US: [
     {
-      'Reindeer have very thick coats, how many hairs per square inch do they have?': [
-        '13,000',
-        '1,200',
-        '5,000',
-        '700',
-        '1,000',
-        '120,000',
+      'How many disciples did Jesus choose?': [
+        '12',
+        '11',
+        '25',
+        '13',
       ],
     },
     {
-      'The 1964 classic Rudolph The Red Nosed Reindeer was filmed in? ': [
-        'Japan',
-        'United States',
-        'Finland',
-        'Germany',
-        'Canada',
-        'Norway',
-        'France',
+      'Who baptized Jesus? ': [
+        'John The Baptist',
+        'Judah',
+        'Matthew',
+        'The Pope',
       ],
     },
     {
-      'Santas reindeer are cared for by one of the Christmas elves, what is his name?': [
-        'Wunorse Openslae',
-        'Alabaster Snowball',
-        'Bushy Evergreen',
-        'Pepper Minstix',
+      'Who denied Jesus three times?': [
+        'Peter',
+        'Samuel',
+        'John',
+        'Judah',
       ],
     },
     {
-      'If all of Santas reindeer had antlers while pulling his Christmas sleigh, they would all be': [
-        'Girls',
-        'Boys',
-        'Girls and boys',
-        'No way to tell',
+      'How many commandments did Moses bring down the mountain?': [
+        '10',
+        '12',
+        '6',
+        '18',
       ],
     },
     {
-      'What do Reindeer eat?': [
-        'Lichen',
-        'Grasses',
-        'Leaves',
-        'Berries',
+      'What type of tree did Jesus curse?': [
+        'Fig tree',
+        'Apple tree',
+        'Lemon tree',
+        'Palm Tree',
       ],
     },
     {
-      'What of the following is not true?': [
-        'Caribou live on all continents',
-        'Both reindeer and Caribou are the same species',
-        'Caribou are bigger than reindeer',
-        'Reindeer live in Scandinavia and Russia',
+      'Who called the animals onto the ark?': [
+        'God',
+        'Moses',
+        'Noah',
+        'Adam',
       ],
     },
     {
-      'In what year did Rudolph make his television debut?': [
-        '1964',
-        '1979',
-        '2000',
-        '1956',
+      'I prayed three times a day and was once saved from lions?': [
+        'Daniel',
+        'Isaiah',
+        'Jonah',
+        'Moses',
       ],
     },
     {
-      'Who was the voice of Rudolph in the 1964 classic?': [
-        'Billie Mae Richards',
-        'Burl Ives',
-        'Paul Soles',
-        'Lady Gaga',
+      'What man did Jesus resurrect?': [
+        'Lazarus',
+        'Saul',
+        'Joseph',
+        'John',
       ],
     },
     {
-      'In 1939 what retailer used the story of Rudolph the Red Nose Reindeer?': [
-        'Montgomery Ward',
-        'Sears',
-        'Macys',
-        'Kmart',
+      'Who was tempted into eating the fruit from the forbidden tree?': [
+        'Adam and Eve',
+        'Cain and Abel',
+        'Mary and Martha',
+        'Paul and Peter',
       ],
     },
     {
-      'Santa\'s reindeer named Donner was originally named what?': [
-        'Dunder',
-        'Donny',
-        'Dweedle',
-        'Dreamy',
+      'I am small in stature and a tax collect, who am I?': [
+        'Zacchaeus',
+        'David',
+        'Peter',
+        'Lucky the Leprechan',
       ],
     },
     {
-      'Who invented the story of Rudolph?': [
-        'Robert May',
-        'Johnny Marks',
-        'Santa',
-        'J K  Rowling',
+      'Who built the ark?': [
+        'Noah',
+        'Jonah',
+        'Samuel',
+        'David',
       ],
     },
     {
-      'In what location will you not find reindeer?': [
-        'North Pole',
-        'Lapland',
-        'Korvatunturi mountain',
-        'Finland',
+      'Who was swalloed by a big fish?': [
+        'Jonah',
+        'Peter',
+        'David',
+        'Goliath',
       ],
     },
     {
-      'What Makes Santa\'s Reindeer Fly?': [
-        'Magical Reindeer Dust',
-        'Fusion',
-        'Amanita muscaria',
-        'Elves',
+      'Who was the father of many nations?': [
+        'Abraham',
+        'John',
+        'David',
+        'Pharoah',
       ],
     },
     {
-      'Including Rudolph, how many reindeer hooves are there?': [
-        '36',
-        '24',
-        '16',
-        '8',
+      'What did Jesus feed the multitude with?': [
+        '5 loafs of bread and 2 fish',
+        'Big Macs',
+        '3 loafs of bread and 4 fish',
+        '1 loaf of bread and 10 fish',
       ],
     },
     {
-      'Santa only has one female reindeer, Which one is it?': [
-        'Vixen',
-        'Clarice',
-        'Cupid',
-        'Cupid',
+      'What jewish woman became the queen of Persia?': [
+        'Esther',
+        'Ruth',
+        'Naomi',
+        'Mary',
       ],
     },
     {
-      'In the 1964 classic Rudolph The Red Nosed Reindeer, what was the snowman narrators name?': [
-        'Sam',
-        'Frosty',
-        'Burl',
-        'Snowy',
+      'Who was the wisest king in the bible?': [
+        'Solomon',
+        'Samuel',
+        'David',
+        'Job',
       ],
     },
     {
-      'What was Rudolph\'s father\'s name?': [
-        'Donner',
-        'Dasher',
-        'Blixen',
-        'Comet',
+      'What was the name of Mary\'s husband?': [
+        'Joseph',
+        'David',
+        'Matthew',
+        'Paul',
       ],
     },
     {
-      'In the 1964 movie, What was the name of the coach of the Reindeer Games?': [
-        'Comet',
-        'Blixen',
-        'Donner',
-        'Dasher',
+      'Who was taken in a chariot of fire to heaven?': [
+        'Elijah',
+        'Elisha',
+        'Gomer',
+        'Lazarus',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the deer that Rudolph befriends at the reindeer games?': [
-        'Fireball',
-        'Clarice',
-        'Jumper',
-        'Vixen',
+      'What are both the names of Paul\'s disciples?': [
+        'Timothy and Titus',
+        'James and Matthew',
+        'Judah and Luke',
+        'Simon and Peter',
       ],
     },
     {
-      'In the 1964 movie, How did Donner, Rudolph\'s father, try to hide Rudolph\'s nose?': [
-        'Black mud',
-        'Bag',
-        'Pillow case',
-        'Sock',
+      'Who sewed garments for widows?': [
+        'Tabitha',
+        'Jane',
+        'Martha',
+        'Mary',
       ],
     },
     {
-      'In the 1964 movie, what does the Misfit Elf want to be instead of a Santa Elf?': [
-        'Dentist',
-        'Reindeer',
-        'Toy maker',
-        'Candlestick maker',
+      'Who was the first woman prophetess?': [
+        'Debra',
+        'Mary',
+        'Clarke',
+        'Octavia',
       ],
     },
     {
-      'In the 1964 movie,what was the Bumble\'s one weakness?': [
-        'Could not swim',
-        'Always hungry',
-        'Candy canes',
-        'Cross eyed',
+      'What evil queen was married to king Ahab?': [
+        'Jezebel',
+        'Eve',
+        'Gomer',
+        'Mariah',
       ],
     },
     {
-      'In the 1964 movie, what is Yukon Cornelius really in search of?': [
-        'Peppermint',
-        'Gold',
-        'India',
-        'Polar Bears',
+      'What is the first commandment?': [
+        'You shall have no other gods before me',
+        'You shall not murder',
+        'You shall not steal',
+        'Honor your father and your mother',
       ],
     },
     {
-      'In the 1964 movie, why is the train on the Island of Misfit Toys?': [
-        'Square wheels',
-        'No Engine',
-        'Paint does not match',
-        'It does not toot',
+      'Who was the strongest man in the bible?': [
+        'Samson',
+        'Jonah',
+        'Thelonious',
+        'John',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the Jack in the Box?': [
-        'Charlie',
-        'Sam',
-        'Billy',
-        'Jack',
+      'Which son of Jesse was chosen to be King?': [
+        'David',
+        'Samuel',
+        'Saul',
+        'Jonathan',
       ],
     },
     {
-      'In the 1964 movie, why did Santa Claus almost cancel Christmas?': [
-        'Storm',
-        'No snow',
-        'No toys',
-        'The Reindeer were sick',
+      'Who gave up their birth right?': [
+        'Esau',
+        'Jacob',
+        'Cain',
+        'Edward',
       ],
     },
     {
-      'In the 1964 movie, what animal noise did the elf make to distract the Bumble?': [
-        'Oink',
-        'Growl',
-        'Bark',
-        'Meow',
+      'What did the Isrealites worship when Moses went up to the mountain?': [
+        'Golden Calf',
+        'Bronze Eagle',
+        'Golden Bunny',
+        'A lion',
       ],
     },
     {
-      'In the 1964 movie, what is the name of the prospector?': [
-        'Yukon Cornelius',
-        'Slider Sam',
-        'Bumble',
-        'Jack',
+      'God changed Jacob\'s name to?': [
+        'Isreal',
+        'Babylon',
+        'Paul',
+        'Matthias',
       ],
     },
     {
-      'How far do reindeer travel when they migrate?': [
-        '3000 miles',
-        '700 miles',
-        '500 miles',
-        '0 miles',
+      'Who replaced Judas Iscariot?': [
+        'Matthias',
+        'Samuel',
+        'Mark',
+        'Job',
       ],
     },
     {
-      'How fast can a reindeer run?': [
-        '48 miles per hour',
-        '17 miles per hour',
-        '19 miles per hour',
-        '14 miles per hour',
-        '52 miles per hour',
-        '41 miles per hour',
+      'How many times should we forgive according to the bible?': [
+        '70 times 7',
+        'Never',
+        '3 times',
+        '10 times',
+        'Sometimes',
       ],
     },
   ],
-  QUESTIONS_DE_DE: [
+  /*QUESTIONS_DE_DE: [
     {
       'Rentiere haben ein sehr dickes Fell, Wie viele Haare pro Quadratzentimeter haben sie?': [
         '13,000',
@@ -751,5 +740,5 @@ module.exports = {
         '65 km pro Stunde',
       ],
     },
-  ],
+  ],*/
 };
