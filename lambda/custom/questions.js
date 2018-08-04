@@ -483,12 +483,52 @@ module.exports = {
       ],
     },
     {
+      'What piece of Joseph\'s clothing made his brothers jealous?': [
+        'A coat',
+        'Sandals',
+        'Sweatpants',
+        'Shorts',
+      ],
+    },
+    {
       'How many times should we forgive according to the bible?': [
         '70 times 7',
         'Never',
         '3 times',
         '10 times',
         'Sometimes',
+      ],
+    },
+    {
+      'What is the last book of the old testament?': [
+        'Malachi',
+        'Matthew',
+        'Zechariah',
+        'Revelation',
+      ],
+    },
+    {
+      'Finish the bible verse, For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but?': [
+        'have everlasting life.',
+        'have everlasting joy.',
+        'have free coffee.',
+        'have everlasting peace.',
+      ],
+    },
+    {
+      'According to the bible, what name is the name above all names?': [
+        'Jesus',
+        'Noah',
+        'Samson',
+        'Abraham',
+      ],
+    },
+    {
+      'Who killed Abel?': [
+        'Cain',
+        'Shane',
+        'Bane',
+        'Samuel',
       ],
     },
   ],
